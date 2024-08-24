@@ -1,0 +1,61 @@
+table {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 20px;
+    text-align: center;
+    border: 2px aliceblue solid;
+}
+.zoo {
+    background-color: cadetblue;
+    border: red solid 2px;
+    border-radius: 20px;
+    text-align: center;
+    color: blueviolet;
+}
+.virtual {
+   color: blueviolet;
+}
+
+.green {
+    color: green;
+}
+.yellow {
+    background-color: yellow;
+    color: dimgray ;
+    text-align: center;
+}
+body {
+    text-align: center;
+}
+div {
+    text-align: left;
+}
+.red {
+    color: red;
+}
+.blue {
+    background-color: cornflowerblue;
+    color: aliceblue;
+    width: 150px;
+}
+.gr {
+    background-color: green;
+    text-align: center;
+    color: aliceblue;
+}
+.re {
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+}
+.bl {
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
+.black {
+    background-color: black;
+    color: aliceblue;
+    width: 900px;
+}
